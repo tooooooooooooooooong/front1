@@ -1,0 +1,52 @@
+.head{
+    border: 100% solid #0080FF;
+    background-color: #0080FF;
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+
+.head-color{
+    color: #0080FF;
+}
+
+
+
+
+.table{
+    width: 100%;
+    border-collapse: collapse;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+    overflow: hidden;
+}
+.table th{
+    background-color: #f4f4f4;
+    padding: 10px;
+    text-align: left;
+}
+.table td{
+    padding: 10px;
+    text-align: left;
+}
+
+
+
+.list{
+    text-align: left;
+}
+
+.href{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background-color: #f4f4f4;
+    height: 30px;
+}

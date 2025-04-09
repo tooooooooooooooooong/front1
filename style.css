@@ -1,0 +1,33 @@
+
+.head-title{
+    border: 2px solid gold;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.habbit1{
+    border: 2px solid red;
+    text-align: left;
+    font-size: medium;
+    font-weight: lighter;
+    display: flex;
+    flex-direction: column;
+    justify-content: spa;
+    align-items: center;
+}
+
+.auther{
+    border: 2px solid red;
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+.movie{
+    border: 2px solid red;
+    font-weight: lighter;
+    color:blueviolet;
+}
+
